@@ -1,0 +1,72 @@
+{
+  "book_id": "medieval-arabic-metafictional-technological-anxiety",
+  "title": "The Watermark Beneath the Word",
+  "tagline": "A medieval scribe uncovers a perfect forgery, plunging him into a conspiracy where the very tools of truth are being weaponized against the human hand.",
+  "target_words": 72124,
+  "actual_words": 72124,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Unreliability of Text",
+    "The Anxiety of Technological Displacement",
+    "The Conspiracy of Institutional Reality",
+    "The Palimpsest of Personal and Historical Truth"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Ink That Lies",
+      "words": 6556
+    },
+    {
+      "ch": 2,
+      "title": "A Scent of Lemons and Betrayal",
+      "words": 6556
+    },
+    {
+      "ch": 3,
+      "title": "The Whisper Given Stone",
+      "words": 6556
+    },
+    {
+      "ch": 4,
+      "title": "The Watermark Beneath",
+      "words": 6556
+    },
+    {
+      "ch": 5,
+      "title": "A Metronome in the Dark",
+      "words": 6556
+    },
+    {
+      "ch": 6,
+      "title": "Ghost Script on a Palimpsest",
+      "words": 6556
+    },
+    {
+      "ch": 7,
+      "title": "The Road as a Funnel",
+      "words": 6556
+    },
+    {
+      "ch": 8,
+      "title": "The Hum of the Blank Page",
+      "words": 6556
+    },
+    {
+      "ch": 9,
+      "title": "The Brand of a Vision",
+      "words": 6556
+    },
+    {
+      "ch": 10,
+      "title": "The Serenity of Institutional Lies",
+      "words": 6556
+    },
+    {
+      "ch": 11,
+      "title": "A Polished Silence",
+      "words": 6556
+    }
+  ]
+}
